@@ -80,11 +80,11 @@ export function Hero() {
           }`}
         >
           <div className="bg-white/80 backdrop-blur-sm p-6 rounded-2xl border border-gray-100 shadow-sm">
-            <div className="font-bold text-3xl text-blue-600 mb-2">12+</div>
+            <div className="font-bold text-3xl text-blue-600 mb-2">70+</div>
             <div className="text-gray-600">API Lokal</div>
           </div>
           <div className="bg-white/80 backdrop-blur-sm p-6 rounded-2xl border border-gray-100 shadow-sm">
-            <div className="font-bold text-3xl text-blue-600 mb-2">6+</div>
+            <div className="font-bold text-3xl text-blue-600 mb-2">25+</div>
             <div className="text-gray-600">Kategori</div>
           </div>
           <div className="bg-white/80 backdrop-blur-sm p-6 rounded-2xl border border-gray-100 shadow-sm">

@@ -32,7 +32,7 @@ export function Navbar() {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
             <span className="text-xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-cyan-500">
-              APIketan
+            FetchAPI.id
             </span>
             <div className="hidden md:flex ml-2 text-sm font-medium text-muted-foreground">
               Indonesia
@@ -68,7 +68,7 @@ export function Navbar() {
           
           <div className="flex items-center space-x-4">
             <a
-              href="https://github.com/apiketan/indonesia" 
+              href="https://github.com/rafsanza-hub/fetchapi-id" 
               target="_blank" 
               rel="noopener noreferrer"
               className="relative overflow-hidden rounded-full w-9 h-9 bg-secondary/80 flex items-center justify-center transition-all duration-300"

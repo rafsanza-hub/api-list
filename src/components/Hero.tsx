@@ -38,11 +38,11 @@ export function Hero() {
           </div>
           
           <h1 
-            className={`text-4xl md:text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-gray-900 via-blue-800 to-gray-900 transition-all duration-700 delay-100 ${
+            className={`text-5xl md:text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-gray-900 via-blue-800 to-gray-900 transition-all duration-700 delay-100 ${
               isVisible ? 'opacity-100' : 'opacity-0 translate-y-10'
             }`}
           >
-            APIketan Indonesia
+            FetchAPI.id
           </h1>
           
           <p 
